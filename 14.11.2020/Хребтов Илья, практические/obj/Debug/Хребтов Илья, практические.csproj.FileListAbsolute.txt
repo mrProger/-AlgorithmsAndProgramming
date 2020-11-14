@@ -1,0 +1,18 @@
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\bin\Debug\Хребтов Илья, практические.exe.config
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\bin\Debug\Хребтов Илья, практические.exe
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\bin\Debug\Хребтов Илья, практические.pdb
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\obj\Debug\Хребтов Илья, практические.csprojAssemblyReference.cache
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\obj\Debug\Хребтов_Илья__практические.Form1.resources
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\obj\Debug\Хребтов_Илья__практические.Properties.Resources.resources
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\obj\Debug\Хребтов Илья, практические.csproj.GenerateResource.cache
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\obj\Debug\Хребтов Илья, практические.csproj.CoreCompileInputs.cache
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\obj\Debug\Хребтов Илья, практические.exe
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\obj\Debug\Хребтов Илья, практические.pdb
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\obj\Debug\Хребтов_Илья__практические.Form2.resources
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\obj\Debug\Хребтов_Илья__практические.Form3.resources
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\obj\Debug\Хребтов_Илья__практические.Form4.resources
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\obj\Debug\Хребтов_Илья__практические.Form5.resources
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\obj\Debug\Хребтов_Илья__практические.Form6.resources
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\obj\Debug\Хребтов_Илья__практические.Form7.resources
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\obj\Debug\Хребтов_Илья__практические.Form8.resources
+C:\Users\playc\Desktop\Хребтов Илья, практические\Хребтов Илья, практические\obj\Debug\Хребтов_Илья__практические.Form9.resources
