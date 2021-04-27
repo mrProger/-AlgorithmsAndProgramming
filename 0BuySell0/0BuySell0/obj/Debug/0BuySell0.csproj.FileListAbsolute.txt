@@ -1,0 +1,13 @@
+D:\Документы\study2\Рабочий стол\0BuySell0\0BuySell0\bin\Debug\0BuySell0.exe.config
+D:\Документы\study2\Рабочий стол\0BuySell0\0BuySell0\bin\Debug\0BuySell0.exe
+D:\Документы\study2\Рабочий стол\0BuySell0\0BuySell0\bin\Debug\0BuySell0.pdb
+D:\Документы\study2\Рабочий стол\0BuySell0\0BuySell0\obj\Debug\0BuySell0.csprojAssemblyReference.cache
+D:\Документы\study2\Рабочий стол\0BuySell0\0BuySell0\obj\Debug\_0BuySell0.Form1.resources
+D:\Документы\study2\Рабочий стол\0BuySell0\0BuySell0\obj\Debug\_0BuySell0.Properties.Resources.resources
+D:\Документы\study2\Рабочий стол\0BuySell0\0BuySell0\obj\Debug\0BuySell0.csproj.GenerateResource.cache
+D:\Документы\study2\Рабочий стол\0BuySell0\0BuySell0\obj\Debug\0BuySell0.csproj.CoreCompileInputs.cache
+D:\Документы\study2\Рабочий стол\0BuySell0\0BuySell0\obj\Debug\0BuySell0.exe
+D:\Документы\study2\Рабочий стол\0BuySell0\0BuySell0\obj\Debug\0BuySell0.pdb
+\\termsrv\Общий ресурс\_Учебный материал\Милютина И.В\ИСП-392\2-я_подгруппа\2-я_подгруппа\Перлин\C#\0BuySell0\0BuySell0\bin\Debug\0BuySell0.exe.config
+\\termsrv\Общий ресурс\_Учебный материал\Милютина И.В\ИСП-392\2-я_подгруппа\2-я_подгруппа\Перлин\C#\0BuySell0\0BuySell0\obj\Debug\0BuySell0.exe
+\\termsrv\Общий ресурс\_Учебный материал\Милютина И.В\ИСП-392\2-я_подгруппа\2-я_подгруппа\Перлин\C#\0BuySell0\0BuySell0\obj\Debug\0BuySell0.pdb
