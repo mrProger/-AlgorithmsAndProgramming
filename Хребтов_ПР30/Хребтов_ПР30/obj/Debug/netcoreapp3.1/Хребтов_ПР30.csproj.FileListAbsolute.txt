@@ -1,0 +1,16 @@
+C:\Users\playc\Desktop\Хребтов_ПР30\Хребтов_ПР30\bin\Debug\netcoreapp3.1\Хребтов_ПР30.exe
+C:\Users\playc\Desktop\Хребтов_ПР30\Хребтов_ПР30\bin\Debug\netcoreapp3.1\Хребтов_ПР30.deps.json
+C:\Users\playc\Desktop\Хребтов_ПР30\Хребтов_ПР30\bin\Debug\netcoreapp3.1\Хребтов_ПР30.runtimeconfig.json
+C:\Users\playc\Desktop\Хребтов_ПР30\Хребтов_ПР30\bin\Debug\netcoreapp3.1\Хребтов_ПР30.runtimeconfig.dev.json
+C:\Users\playc\Desktop\Хребтов_ПР30\Хребтов_ПР30\bin\Debug\netcoreapp3.1\Хребтов_ПР30.dll
+C:\Users\playc\Desktop\Хребтов_ПР30\Хребтов_ПР30\bin\Debug\netcoreapp3.1\Хребтов_ПР30.pdb
+C:\Users\playc\Desktop\Хребтов_ПР30\Хребтов_ПР30\obj\Debug\netcoreapp3.1\Хребтов_ПР30.csprojAssemblyReference.cache
+C:\Users\playc\Desktop\Хребтов_ПР30\Хребтов_ПР30\obj\Debug\netcoreapp3.1\Михайлов_Шемяков.Form1.resources
+C:\Users\playc\Desktop\Хребтов_ПР30\Хребтов_ПР30\obj\Debug\netcoreapp3.1\Михайлов_Шемяков.Form2.resources
+C:\Users\playc\Desktop\Хребтов_ПР30\Хребтов_ПР30\obj\Debug\netcoreapp3.1\Хребтов_ПР30.csproj.GenerateResource.cache
+C:\Users\playc\Desktop\Хребтов_ПР30\Хребтов_ПР30\obj\Debug\netcoreapp3.1\Хребтов_ПР30.AssemblyInfoInputs.cache
+C:\Users\playc\Desktop\Хребтов_ПР30\Хребтов_ПР30\obj\Debug\netcoreapp3.1\Хребтов_ПР30.AssemblyInfo.cs
+C:\Users\playc\Desktop\Хребтов_ПР30\Хребтов_ПР30\obj\Debug\netcoreapp3.1\Хребтов_ПР30.csproj.CoreCompileInputs.cache
+C:\Users\playc\Desktop\Хребтов_ПР30\Хребтов_ПР30\obj\Debug\netcoreapp3.1\Хребтов_ПР30.dll
+C:\Users\playc\Desktop\Хребтов_ПР30\Хребтов_ПР30\obj\Debug\netcoreapp3.1\Хребтов_ПР30.pdb
+C:\Users\playc\Desktop\Хребтов_ПР30\Хребтов_ПР30\obj\Debug\netcoreapp3.1\Хребтов_ПР30.genruntimeconfig.cache
