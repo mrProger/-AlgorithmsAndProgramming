@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Хребтов_ПР31/1.0.0": {
+        "runtime": {
+          "Хребтов_ПР31.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Хребтов_ПР31/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\playc\Desktop\Хребтов_ПР31\Хребтов_ПР31\obj\Debug\netcoreapp3.1\Хребтов_ПР31.csprojAssemblyReference.cache
+C:\Users\playc\Desktop\Хребтов_ПР31\Хребтов_ПР31\obj\Debug\netcoreapp3.1\_0BuySell0.Form1.resources
+C:\Users\playc\Desktop\Хребтов_ПР31\Хребтов_ПР31\obj\Debug\netcoreapp3.1\Хребтов_ПР31.csproj.GenerateResource.cache
+C:\Users\playc\Desktop\Хребтов_ПР31\Хребтов_ПР31\obj\Debug\netcoreapp3.1\Хребтов_ПР31.AssemblyInfoInputs.cache
+C:\Users\playc\Desktop\Хребтов_ПР31\Хребтов_ПР31\obj\Debug\netcoreapp3.1\Хребтов_ПР31.AssemblyInfo.cs
+C:\Users\playc\Desktop\Хребтов_ПР31\Хребтов_ПР31\obj\Debug\netcoreapp3.1\Хребтов_ПР31.csproj.CoreCompileInputs.cache
+C:\Users\playc\Desktop\Хребтов_ПР31\Хребтов_ПР31\bin\Debug\netcoreapp3.1\Хребтов_ПР31.exe
+C:\Users\playc\Desktop\Хребтов_ПР31\Хребтов_ПР31\bin\Debug\netcoreapp3.1\Хребтов_ПР31.deps.json
+C:\Users\playc\Desktop\Хребтов_ПР31\Хребтов_ПР31\bin\Debug\netcoreapp3.1\Хребтов_ПР31.runtimeconfig.json
+C:\Users\playc\Desktop\Хребтов_ПР31\Хребтов_ПР31\bin\Debug\netcoreapp3.1\Хребтов_ПР31.runtimeconfig.dev.json
+C:\Users\playc\Desktop\Хребтов_ПР31\Хребтов_ПР31\bin\Debug\netcoreapp3.1\Хребтов_ПР31.dll
+C:\Users\playc\Desktop\Хребтов_ПР31\Хребтов_ПР31\bin\Debug\netcoreapp3.1\Хребтов_ПР31.pdb
+C:\Users\playc\Desktop\Хребтов_ПР31\Хребтов_ПР31\obj\Debug\netcoreapp3.1\Хребтов_ПР31.dll
+C:\Users\playc\Desktop\Хребтов_ПР31\Хребтов_ПР31\obj\Debug\netcoreapp3.1\Хребтов_ПР31.pdb
+C:\Users\playc\Desktop\Хребтов_ПР31\Хребтов_ПР31\obj\Debug\netcoreapp3.1\Хребтов_ПР31.genruntimeconfig.cache
