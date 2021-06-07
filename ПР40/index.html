@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ПР 40</title>
+	<script>
+		function l_image(a, b, c) {
+			document.images[0].src = a
+			document.images[1].src = b
+			document.images[2].src = c
+		}
+	</script>
+</head>
+<body>
+	<p id="task-header">Задание 1</p>
+	<TABLE COLS=2 >
+		<CAPTION>
+			<FONT COLOR="green" SIZE=+2>	Образцы бытовой техники</FONT>
+		</CAPTION>
+		<TR>
+			<TD>
+				<ul>
+					<li><a href="javascript:l_image('asus1.jpg', 'asus2.jpg', 'asus3.jpg')">Asus</a></li>
+					<li><a href="javascript:l_image('ASrock1.jpg', 'ASrock2.jpg', 'ASrock3.jpg')">ASrock</a></li>
+					<li><a href="javascript:l_image('msi1.jpg', 'msi2.jpg', 'msi3.jpg')">MSI</a></li>
+				</ul>
+			</TD>
+			<TD> 
+				<IMG SRC="asus1.jpg" width="200" height="200">
+				<IMG SRC="asus2.jpg" width="200" height="200">
+				<IMG SRC="asus3.jpg" width="200" height="200">
+			</TD>
+		</TR>
+	</TABLE>
+
+	<hr/>
+	<p id="task-header">Задание 2</p>
+	<img id="task2" src="task2/1.jpg" width="200" height="200">
+	<p align="center">
+		<button onclick="next_image()">Вперед</button>
+		<button onclick="prev_image()">Назад</button>
+	</p>
+	<script>
+		var pictures = new Array("task2/1.jpg", "task2/2.jpg", "task2/3.jpg", "task2/4.jpg", "task2/5.jpg", "task2/6.jpg");
+		var n = 0;
+
+		function next_image() 
+		{
+			n++; if(n > pictures.length - 1) n=0;
+	       document.getElementById("task2").src = pictures[n];
+		}
+
+		function prev_image() 
+		{
+			n--; if(n<0) n=5;
+	       document.getElementById("task2").src = pictures[n];
+		}
+	</script>
+	<hr/>
+	<p id="task-header">Задание 3_1</p>
+	<img id="task3_1" src="task2/1.jpg" width="200" height="200">
+	<p align="center">
+		<button onclick="next_image()">Вперед</button>
+		<button onclick="start_stop()">Старт/Стоп</button>
+		<button onclick="prev_image()">Назад</button>
+	</p>
+	<script>
+		var pictures = new Array("task2/1.jpg", "task2/2.jpg", "task2/3.jpg", "task2/4.jpg", "task2/5.jpg", "task2/6.jpg");
+		var n = 0;
+		var flag = 0;
+
+		function next_image() 
+		{
+			n++; if(n > pictures.length - 1) n = 0;
+	       document.getElementById("task3_1").src = pictures[n];
+		}
+
+		function prev_image() 
+		{
+			n--; if(n<0) n=5;
+	       document.getElementById("task3_1").src = pictures[n];
+		}
+
+		function scroll_image() 
+		{
+			if (flag == 1) 
+			{
+				n++; if (n > pictures.length - 1) n = 0;
+				document.getElementById("task3_1").src = pictures[n];
+			}
+			setTimeout("scroll_image()", 1000);
+		}
+
+		function start_stop() 
+		{
+			scroll_image();
+			flag = flag == 1 ? 0 : 1;
+		}
+	</script>
+	<hr/>
+	<p id="task-header">Задание 3_2</p>
+	<img id="task3_2" src="task2/1.jpg" width="200" height="200">
+	<p align="center">
+		<button onclick="next_image()">Вперед</button>
+		<button onclick="start_stop()">Старт/Стоп</button>
+		<button onclick="prev_image()">Назад</button>
+	</p>
+	<script>
+		var pictures = new Array("task2/1.jpg", "task2/2.jpg", "task2/3.jpg", "task2/4.jpg", "task2/5.jpg", "task2/6.jpg");
+		var n = 0;
+		var flag = 0;
+
+		function next_image() 
+		{
+			n++; if(n > pictures.length - 1) n = 0;
+	       document.getElementById("task3_2").src = pictures[n];
+		}
+
+		function prev_image() 
+		{
+			n--; if(n<0) n=5;
+	       document.getElementById("task3_2").src = pictures[n];
+		}
+
+		function scroll_image() 
+		{
+			if (flag == 1) 
+			{
+				n++; if (n > pictures.length - 1) n = 0;
+				document.getElementById("task3_2").src = pictures[n];
+			}
+			setTimeout("scroll_image()", 1000);
+		}
+
+		function start_stop() 
+		{
+			scroll_image();
+			flag = flag == 1 ? 0 : 1;
+		}
+	</script>
+	<hr/>
+	<p id="task-header">Задание 4</p>
+	<form>
+		<input type="button" value="ford" onClick="javascript:window.open('ford.html','example','scrollbars, resizable,width=300,height=200,left=100,top=100')">
+		<input type="button" value="mazda" onClick="javascript:window.open('mazda.html','example','scrollbars, resizable,width=300,height=200,left=100,top=100')">
+		<input type="button" value="volvo" onClick="javascript:window.open('volvo.html','example','scrollbars, resizable,width=300,height=200,left=100,top=100')">
+	</form>
+	<style>
+		body { font-family: sans-serif; background-color: #44395e; }
+		p { color: white; }
+		a { color: #32a852; }
+		#task-header {
+			text-align: center;
+			font-weight: bold;
+			color: white;
+			font-size: 30px;
+		}
+	</style>
+</body>
+</html>
